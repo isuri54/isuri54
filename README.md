@@ -1,5 +1,5 @@
 # Hi, I'm Isuri 👋  
-### Software Engineering Undergraduate | Full-Stack Developer (React.js, Node.js)
+### Software Engineering Undergraduate | Full-Stack Developer
 
 🚀 I build scalable web applications and AI-powered systems focused on performance, usability, and real-world problem solving.  
 💡 Passionate about modern web technologies, clean UI/UX, and intelligent automation.
