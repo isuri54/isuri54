@@ -32,7 +32,7 @@ Full-stack web platform for agricultural data analytics and forecasting using AI
 - Integrated RESTful APIs for seamless communication between services  
 - Designed responsive dashboards and data visualization components  
 
-🔗 GitHub: https://github.com/agriscope
+🔗 GitHub: https://github.com/isuri54/agriscope
 
 ---
 
@@ -44,7 +44,7 @@ AI-powered web application for predicting candidate interview performance using 
 - Designed responsive UI with data-driven insights  
 - API-based architecture for frontend-backend communication  
 
-🔗 GitHub: https://github.com/prepscore
+🔗 GitHub: https://github.com/isuri54/prepscore
 
 ---
 
@@ -56,7 +56,7 @@ Scalable MERN-stack application for managing service bookings with real-time fea
 - Integrated **RESTful APIs and Socket.io for real-time updates**  
 - Focused on modular backend architecture and responsive UI  
 
-🔗 GitHub: https://github.com/servicehub  
+🔗 GitHub: https://github.com/isuri54/servicehub  
 
 ---
 
@@ -68,7 +68,7 @@ Cross-platform mobile application for connecting users to exchange skills and kn
 - Designed interactive UI with real-time database updates  
 - Focused on community-driven learning experience  
 
-🔗 GitHub: https://github.com/isuri54  
+🔗 GitHub: https://github.com/isuri54/skill-bridge  
 
 ---
 
